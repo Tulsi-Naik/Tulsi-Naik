@@ -6,7 +6,7 @@ Aspiring Data Analyst
 
 * 🌍  I'm based in Kolhapur
 * ✉️  You can contact me at [tulsivnaik@gmail.com](mailto:tulsivnaik@gmail.com)
-* 🚀  I'm currently working on [Pet Care Booking Platform](http://(s)://pawpaw-mu.vercel.app)
+* 🚀  I'm currently working on [Pet Care Booking Platform](https://pawpaw-mu.vercel.app)
 * 🧠  I'm currently learning Blockchain and Agentic AI
 
 <p align="left">
