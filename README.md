@@ -12,7 +12,7 @@ I’m continuously improving my skills in data analysis and visualization, and w
 * 🚀  I'm currently working on [Pet Care Booking Platform](https://pawpaw-mu.vercel.app)
 * 🧠  I'm currently learning Blockchain
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 
@@ -21,23 +21,22 @@ I’m continuously improving my skills in data analysis and visualization, and w
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-</p>
+</p> -->
 
 ### Socials
-<h3>Connect</h3>
+
+<h3 align="left">Connect</h3>
 <p align="left">
   <a href="https://github.com/Tulsi-Naik" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/tulsi-naik" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
   </a>
 </p>
 
----
-
-<h3>Data Analysis Tools</h3>
+<h3 align="left">Data Analysis Tools</h3>
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -47,6 +46,8 @@ I’m continuously improving my skills in data analysis and visualization, and w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook"/>
 &nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" title="Excel"/>
 &nbsp;&nbsp;
