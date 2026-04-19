@@ -27,10 +27,7 @@ I’m continuously improving my skills in data analysis and visualization, and w
 
 <h3 align="left">Connect</h3>
 <p align="left">
-  <a href="https://github.com/Tulsi-Naik" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-  </a>
-  &nbsp;&nbsp;
+ 
   <a href="https://linkedin.com/in/tulsi-naik" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
   </a>
