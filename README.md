@@ -54,7 +54,7 @@ I’m continuously improving my skills in data analysis and visualization, and w
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
 
 </p>
-### Badges
+<!-- ### Badges -->
 
 <b>My GitHub Stats</b>
 
