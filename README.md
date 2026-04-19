@@ -35,31 +35,52 @@ I’m continuously improving my skills in data analysis and visualization, and w
 </p>
 
 <h3 align="left">Data Analysis Tools</h3>
-<p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/><br>R
+</td>
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" title="Excel"/>
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/google-sheets.png" width="40" title="Google Sheets"/>
-&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL
+</td>
 
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/><br>Excel
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/google-sheets.png" width="40"/><br>Sheets
+</td>
+
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br>Tableau
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br>Power BI
+</td>
+</tr>
+</table>
 <!-- ### Badges -->
 
 <b>My GitHub Stats</b>
