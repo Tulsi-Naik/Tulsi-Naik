@@ -39,6 +39,8 @@ I’m continuously improving my skills in data analysis and visualization, and w
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
@@ -46,12 +48,16 @@ I’m continuously improving my skills in data analysis and visualization, and w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook"/>
-&nbsp;&nbsp;
+
+<br><br>
+
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" title="Excel"/>
 &nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/google-sheets.png" width="40" title="Google Sheets"/>
 &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
 
 </p>
 <!-- ### Badges -->
