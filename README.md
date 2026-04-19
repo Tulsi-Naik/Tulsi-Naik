@@ -23,7 +23,8 @@ I’m continuously improving my skills in data analysis and visualization, and w
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 </p> -->
 
-### Socials
+
+
 
 <h3 align="left">Connect</h3>
 <p align="left">
