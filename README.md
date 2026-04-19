@@ -24,7 +24,44 @@ I’m continuously improving my skills in data analysis and visualization, and w
 </p>
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/Tulsi-Naik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/tulsi-naik/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left">
+
+<!-- Socials -->
+<b>Connect:</b><br><br>
+<a href="https://www.github.com/Tulsi-Naik" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/> GitHub
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tulsi-naik/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/> LinkedIn
+</a>
+
+<br><br>
+
+<!-- Tools -->
+<b>Data Analysis Tools:</b><br><br>
+
+<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/> Python</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/> SQL</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="36"/> Excel</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/888/888850.png" width="36"/> Google Sheets</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36"/> Tableau</a>
+
+<br><br>
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/> Pandas</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36"/> NumPy</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="36"/> Data Cleaning</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="36"/> Data Visualization</a>
+
+</p>
 ### Badges
 
 <b>My GitHub Stats</b>
