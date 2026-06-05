@@ -38,8 +38,7 @@ Alongside software development, I work with tools like Python, SQL, and Excel to
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
   </a>
 </p>
-
-<h3 align="left">Data Analysis Tools</h3>
+<h3 align="left">Skills & Tools</h3>
 
 <table>
 <tr>
@@ -48,25 +47,7 @@ Alongside software development, I work with tools like Python, SQL, and Excel to
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/><br>R
-</td>
-
-<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter
 </td>
 
 <td align="center">
@@ -74,20 +55,33 @@ Alongside software development, I work with tools like Python, SQL, and Excel to
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/google-sheets.png" width="40"/><br>Sheets
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br>Power BI
 </td>
 
 <td align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br>Tableau
 </td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
+</td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br>Power BI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express.js
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
 </td>
 </tr>
 </table>
-<!-- ### Badges -->
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Tulsi-Naik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tulsi-Naik&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
