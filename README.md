@@ -1,16 +1,21 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tulsi Naik
 ===================================================================================================================================
 
-Aspiring Data Analyst
----------------------
-I’m a data analyst with a Meta Data Analyst certification from Coursera. I work with tools like Excel, SQL, and Python, and I focus on learning by building projects and analyzing real datasets.
+MCA Graduate | MERN Stack Developer | Aspiring Data Analyst
+-----------------------------------------------------------
 
-I’m continuously improving my skills in data analysis and visualization, and working towards becoming better at solving real-world problems using data.
+I enjoy building full-stack web applications and working with data to solve real-world problems. I have experience developing applications using the MERN stack (MongoDB, Express.js, React, and Node.js) and working with databases, APIs, and data-driven features.
+
+Alongside software development, I work with tools like Python, SQL, and Excel to analyze data, create reports, and gain insights from datasets. I am continuously improving my skills through projects, coursework, and hands-on learning.
 
 * 🌍  I'm based in Kolhapur
 * ✉️  You can contact me at [tulsivnaik@gmail.com](mailto:tulsivnaik@gmail.com)
 * 🚀  I'm currently working on [Pet Care Booking Platform](https://pawpaw-mu.vercel.app)
-* 🧠  I'm currently learning Blockchain
+* 💼  Currently seeking Software Developer and Data Analyst opportunities
+
+
+
 
 <!-- <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
